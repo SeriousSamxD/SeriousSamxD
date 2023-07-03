@@ -7,9 +7,8 @@
 
 - 💬 Ask me about **Android, Data Structures**
 
-- 📫 How to reach me **swayams2002@gmail.com**
+- 📫 How to reach me: **swayams2002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
