@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/64/db/fb/64dbfb279110e5730b698a752532605b.gif)]
-<h1 align="center">Hi 👋, I'm Samarpit Shrivastava</h1>
+<h1 align="center">Samarpit Shrivastava</h1>
 <h3 align="center">An impassioned developer, a TECH geek and an AI/ML enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
 
