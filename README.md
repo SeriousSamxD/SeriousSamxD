@@ -3,7 +3,7 @@
 <h3 align="center">An impassioned developer, a TECH geek and an AI/ML enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3klZkDif0nsAAAAd/gaming-gif.gif">
 
-- 🌱 I’m currently learning **Flutter, Data Science**
+- 🌱 I’m currently learning **WebDev, Data Science**
 
 - 💬 Ask me about **Android, Data Structures**
 
